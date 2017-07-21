@@ -6,7 +6,7 @@ As a result, readers are encouraged to create issues or pull requests for any pa
 # Code of Conduct
 Our event is a social and learning experience where we want people to feel comfortable, and we aim to provide a harassment-free and safe social dance experience for everyone regardless of dance ability or background, gender, gender identity and expression, sexual orientation, physical ability, appearance, body size, race, age, religion or any other characteristics.
 
-We take zero tolerance to harassment in any form: individuals violating these rules may be warned or expelled from the venue at the discretion of the organisers. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any of the event organisers immediately. Ask the sign-in/registration desk if you need assistance locating an organiser.
+We take zero tolerance to harassment in any form: individuals violating these rules will be warned and/or expelled from the venue at the discretion of the organisers. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any of the event organisers immediately. Ask the sign-in/registration desk if you need assistance locating an organiser.
 
 Harassment includes deliberate intimidation, stalking, harassing or intrusive 
 photography or video recording, inappropriate physical contact, unsolicited affection, sexual images in public spaces, and unwelcome and unreciprocated sexual attention. When asked to stop any harassing behaviour, participants are expected to comply immediately.
@@ -31,7 +31,7 @@ Any action taken is at the discretion of the event organisers.
 If you experience or witness a breach of this code of conduct, the following is what you can expect when you notify an organiser. If you do not initially want action taken, but later change your mind, do not hesitate to contact an organiser. 
 
 * An organiser will talk you privately in confidence.
-* The organiser will then document the issue.
+* The organiser will then document the issue. (For the purposes of record keeping to insure that repeated offenders are disaplined appropriately)
 * They will then ask you how you would like the situation to be handled.
 * Action will be taken against the individual(s) involved, in line with those listed in the "Breaches" section.
 
